@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="sept_Grey80.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="256px"
+     inkscape:zoom="2.2449495"
+     inkscape:cx="128.06524"
+     inkscape:cy="155.90551"
+     inkscape:window-width="1916"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="78"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#333333;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1152"
+       inkscape:flatsided="true"
+       sodipodi:sides="7"
+       sodipodi:cx="34.340862"
+       sodipodi:cy="55.926453"
+       sodipodi:r1="85.42617"
+       sodipodi:r2="73.981239"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.44879895"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 119.76703,55.926453 87.603208,122.71532 15.331751,139.21081 -42.625458,92.991479 V 18.861426 l 57.957209,-46.219331 72.271457,16.495488 z"
+       transform="matrix(0,-0.34813721,0.34813721,0,14.432543,47.397689)"
+       inkscape:export-filename="/home/tim/git/shapesColours/hex/hexTeal.png"
+       inkscape:export-xdpi="151.8"
+       inkscape:export-ydpi="151.8" />
+  </g>
+</svg>
