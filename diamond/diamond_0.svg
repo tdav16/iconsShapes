@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256"
-   height="256"
-   viewBox="0 0 67.733332 67.733335"
+   width="270"
+   height="270"
+   viewBox="0 0 71.437499 71.437502"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="diamondOrange.svg"
+   sodipodi:docname="diamond_0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      units="px"
      width="256px"
@@ -42,7 +42,7 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="fill:none;stroke:#ff6600;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ff6600;stroke-width:22.7999;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1152"
        inkscape:flatsided="true"
        sodipodi:sides="4"
@@ -55,7 +55,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 119.76703,55.926453 34.340862,141.35262 -51.085308,55.926453 34.340862,-29.499718 Z"
-       transform="matrix(0.34813721,0,0,0.34813721,21.911334,14.376227)"
+       transform="matrix(0.34813721,0,0,0.34813721,23.926519,16.411772)"
        inkscape:export-filename="/home/tim/git/shapesColours/hex/hexTeal.png"
        inkscape:export-xdpi="151.8"
        inkscape:export-ydpi="151.8" />

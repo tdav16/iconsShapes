@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="oct_Orange.svg"
+   sodipodi:docname="oct_0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      units="px"
      width="256px"
@@ -42,7 +42,7 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="fill:none;stroke:#ff6600;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ff6600;stroke-width:22.51938868;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1152"
        inkscape:flatsided="true"
        sodipodi:sides="8"

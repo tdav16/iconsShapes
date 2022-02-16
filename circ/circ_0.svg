@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256"
-   height="256"
-   viewBox="0 0 67.733332 67.733335"
+   width="290"
+   height="290"
+   viewBox="0 0 76.729166 76.729169"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="circ_Orange.svg"
+   sodipodi:docname="circ_0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,12 +21,12 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      units="px"
      width="256px"
      inkscape:zoom="2.2449495"
-     inkscape:cx="128.06524"
+     inkscape:cx="90.647919"
      inkscape:cy="155.90551"
      inkscape:window-width="1916"
      inkscape:window-height="1000"
@@ -41,10 +41,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:none;stroke:#ff6600;stroke-width:2.64583;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ff6600;stroke-width:7.9375;stroke-miterlimit:4;stroke-dasharray:none"
        id="path10003"
-       cx="33.866665"
-       cy="33.866665"
+       cx="38.364582"
+       cy="38.364586"
        r="32.543751" />
   </g>
 </svg>
