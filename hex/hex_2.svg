@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="hexGrey07-5.svg"
+   sodipodi:docname="hexPurple.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,7 +42,7 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="fill:none;stroke:#ececec;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#800080;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1152"
        inkscape:flatsided="true"
        sodipodi:sides="6"
